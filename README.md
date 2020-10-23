@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=8257E5&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+  <img alt="Made by Antonio Raimundo" src="https://img.shields.io/badge/madeby-antoniorrm-brightgreen">
+  <img alt="MIT license" src="https://img.shields.io/github/license/antoniorrm/proffy">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antoniorrm/proffy">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/antoniorrm/proffy">
 </p>
 
 <br>
@@ -46,3 +47,8 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
+
+<h4 align="center">
+    Made by <a href="https://www.linkedin.com/in/antoniorrm/" style="color: #00a0df" target="_blank">Antonio Raimundo</a>
+</h4>
